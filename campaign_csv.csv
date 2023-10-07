@@ -1,4 +1,4 @@
-﻿channel_type;external_id;first_name;message
+﻿channel_type;external_id;{template_name}:body_1,{template_name}:body_2
 whatsapp_cloud;5491122402996;Gabriel;Please check out our products at www.yourproduct.com
 whatsapp_cloud;5491122402997;Victor;Please check out our products at www.yourproduct.com
 whatsapp_cloud;5491122402998;Anna;Please check out our products at www.yourproduct.com
